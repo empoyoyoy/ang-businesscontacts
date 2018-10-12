@@ -29,5 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Please visit the following links
 
-https://empoyoyoy.github.io/ang-businesscontacts/
+https://empoyoyoy.github.io/ang-businesscontacts/ or 
 https://businesscontacts-15ed2.firebaseapp.com/
