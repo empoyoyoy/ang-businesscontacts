@@ -31,3 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 https://empoyoyoy.github.io/ang-businesscontacts/ or 
 https://businesscontacts-15ed2.firebaseapp.com/
+<br>
+please use test@test.com as username and "123456" as password inorder to use the application
